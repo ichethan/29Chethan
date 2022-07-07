@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @29Chethan
+- 👋 Hi, I’m Chethan
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Python, SQL, HTML,CSS,JAVASCRIPT , DJANGO
 - 💞️ I’m looking to collaborate on ...
